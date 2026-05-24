@@ -1277,17 +1277,17 @@ function touchStarted(){
 
 function createMeteors(){
 
-  let count = 4;
+  let count = 10;
 
   if(difficulty==="normal"){
 
-    count = 6;
+    count = 14;
 
   }
 
   if(difficulty==="hard"){
 
-    count = 8;
+    count = 18;
 
   }
 
